@@ -1,6 +1,6 @@
-.test-color-pink {
+.c-el--pink {
+    /* test your catalyst integration by adding this class to an element in your project */
     color: pink !important;
-    background-color: pink !important;
 }
 
 :root {
