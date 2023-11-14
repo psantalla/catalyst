@@ -8,3 +8,8 @@
 @import url(styles/utils.css);
 @import url(styles/components.css);
 @import url(styles/core.css);
+
+.c-el--pink {
+    /* test your catalyst integration by adding this class to an element in your project */
+    color: pink !important;
+}
