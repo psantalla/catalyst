@@ -79,10 +79,6 @@
 }
 
 .st-ht--100svh {
-    max-height: calc(5 * var(--sp--7xl));
-}
-
-.st-ht--100svh {
     min-height: 100svh;
 }
 
