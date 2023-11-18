@@ -37,6 +37,7 @@ p,
   font-size: var(--t-s--xs);
 }
 
+small,
 .t-s--s {
   font-size: var(--t-s--s);
 }
@@ -46,22 +47,27 @@ p,
   font-size: var(--t-s--m);
 }
 
+h5,
 .t-s--l {
   font-size: var(--t-s--l);
 }
 
+h5,
 .t-s--xl {
   font-size: var(--t-s--xl);
 }
 
+h4,
 .t-s--2xl {
   font-size: var(--t-s--2xl);
 }
 
+h3,
 .t-s--3xl {
   font-size: var(--t-s--3xl);
 }
 
+h2,
 .t-s--4xl {
   font-size: var(--t-s--4xl);
 }

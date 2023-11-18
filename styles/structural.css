@@ -38,7 +38,7 @@
     justify-content: flex-start;
 }
 
-.c {
+.st-apll--mid {
     justify-content: center;
 }
 
@@ -74,13 +74,12 @@
     align-self: end;
 }
 
-.st-ht--100dvh,
 .st-ht--100svh {
     max-height: calc(5 * var(--sp--7xl));
 }
 
-.st-ht--100dvh {
-    min-height: 100dvh;
+.st-ht--100svh {
+    min-height: 100svh;
 }
 
 .st-mw--pleasant {
