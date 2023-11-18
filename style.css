@@ -3,7 +3,7 @@
 @import url(styles/structural.css);
 @import url(styles/spacing.css);
 @import url(styles/typography.css);
-@import url(styles/config/color.css);
+@import url(/styles/config/color.css);
 @import url(/styles/config/utils.css);
 @import url(/styles/config/components.css);
 @import url(/styles/config/core.css);
