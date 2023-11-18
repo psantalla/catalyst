@@ -38,6 +38,10 @@
     justify-content: flex-start;
 }
 
+.st-apll--mid {
+    justify-content: center;
+}
+
 .st-apll--end {
     justify-content: flex-end;
 }
