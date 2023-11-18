@@ -74,6 +74,10 @@
     align-self: end;
 }
 
+.st-ht--100 {
+    height: 100%;
+}
+
 .st-ht--100svh {
     max-height: calc(5 * var(--sp--7xl));
 }
