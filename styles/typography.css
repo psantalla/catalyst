@@ -49,6 +49,7 @@ small,
 }
 
 p,
+a,
 .t-s--m {
   font-size: var(--t-s--m);
 }
