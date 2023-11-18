@@ -12,7 +12,7 @@ h6 {
   font-family: var(--t--ff--h);
 }
 
-
+p,
 .t-s--xs,
 .t-s--s,
 .t-s--m,
@@ -41,6 +41,7 @@ h6 {
   font-size: var(--t-s--s);
 }
 
+p,
 .t-s--m {
   font-size: var(--t-s--m);
 }
