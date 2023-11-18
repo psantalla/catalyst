@@ -20,11 +20,17 @@ p,
   line-height: var(--t-ln-ht--small-t);
 }
 
+h6,
 .t-s--xl,
 .t-s--2xl {
   line-height: var(--t-ln-ht--medium-t);
 }
 
+h5,
+h4,
+h3,
+h4,
+h5,
 .t-s--xl,
 .t-s--2xl,
 .t-s--3xl,
