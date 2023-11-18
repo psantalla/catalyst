@@ -66,6 +66,7 @@ p,
   font-size: var(--t-s--4xl);
 }
 
+h1,
 .t-s--5xl {
   font-size: var(--t-s--5xl);
 }
