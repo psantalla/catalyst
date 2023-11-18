@@ -1,5 +1,5 @@
-/* this is an import file only */
+@import url(styles/color.css);
 @import url(styles/reset.css);
-@import url(styles/structural.css);
 @import url(styles/spacing.css);
+@import url(styles/structural.css);
 @import url(styles/typography.css);
