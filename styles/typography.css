@@ -13,7 +13,7 @@ h6 {
 }
 
 p,
-a, small,
+a, small, li,
 .t-s--xs,
 .t-s--s,
 .t-s--m,
@@ -50,7 +50,7 @@ small,
 }
 
 p,
-a,
+a, li,
 .t-s--m {
   font-size: var(--t-s--m);
 }
